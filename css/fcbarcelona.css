@@ -1,0 +1,26 @@
+h3{
+  text-align:center;
+  color:black;
+}
+h2{
+  text-align:center;
+  color:black;
+}
+h1{
+  text-align:center;
+  color:black;
+}
+p{
+  text-align:center;
+  color:black;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50%;
+  width: 50%;
+  border: 5px solid black;
+}
+body{
+background-color: #C0C0C0;
